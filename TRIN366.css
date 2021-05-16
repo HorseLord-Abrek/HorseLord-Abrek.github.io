@@ -1,7 +1,7 @@
 h1 {color: white; text-align: center; font-size: 52px;}
 h2 {color: white; text-align: center; font-size: 48px; margin-right: 100px; margin-left: 50px;}
 h3 {color: white; text-align: left; font-size: 48px; margin-right: 100px; margin-left: 50px;}
+h4 {text-align: center; margin-right: 100px; margin-left: 50px;}
 p {color: #E4E4E4; text-align: left; font-size: 32px; border: 3px solid green; margin-right: 150px; margin-left: 80px;}
 center {display: block; margin-left: auto; margin-right: auto; width: 50%;}
 li {color: #E4E4E4; text-align: left; font-size: 32px;  margin-right: 150px; margin-left: 80px;}
-h4 {text-align: center;}
