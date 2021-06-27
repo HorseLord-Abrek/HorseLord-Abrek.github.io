@@ -18,8 +18,7 @@ p {
 }
 ul {
     color: white;
-    text-align: center;
-    border: 2px solid orange;
+    text-align: left;
     font-size: 32px;
 }
 center {
