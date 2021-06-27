@@ -4,26 +4,36 @@ h1 {
     border: 5px solid green;
     font-size: 64px;
 }
+
 h2 {
     color: white;
     text-align: center;
     border: 3px solid green;
     font-size: 48px;
 }
+
 p {
     color: white;
     text-align: center;
     border: 2px solid orange;
     font-size: 32px;
 }
+
 ul {
     color: white;
     text-align: left;
     font-size: 32px;
 }
+
 center {
     display: block;
     margin-left: auto;
     margin-right: auto;
     width: 50%;
 }
+
+table {
+    color: white;
+    font-size: 32px;
+}
+
