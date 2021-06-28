@@ -1,3 +1,10 @@
+header {
+    color: white;
+    text-align: center;
+    border: 3px blue;
+    font-size: 64px;
+}
+
 h1 {
     color: white;
     text-align: center;
