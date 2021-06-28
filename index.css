@@ -48,30 +48,25 @@ center {
 table {
     color: white;
     font-size: 32px;
-    margin-left: 200px;
 }
 
 input {
     text-align: center;
     font-size: 32px;
-    margin-left: 200px;
 }
 
 button {
     text-align: center;
     font-size: 32px;
-    margin-left: 200px;
 }
 
 label {
     color: white;
     text-align: center;
     font-size: 32px;
-    margin-left: 200px;
 }
 
 select {
     text-align: center;
     font-size: 32px;
-    margin-left: 200px;
 }
