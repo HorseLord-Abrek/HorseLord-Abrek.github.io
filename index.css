@@ -56,6 +56,10 @@ table, th, td {
     text-align: center;
 }
 
+tr:hover {
+    background-color:blueviolet;
+}
+
 input {
     text-align: center;
     font-size: 32px;
