@@ -52,6 +52,7 @@ center {
 table {
     border-collapse:collapse;
     width:700px;
+    padding:50px;
 }
 table, th, td {
     border: 1px solid orange;
