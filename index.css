@@ -65,6 +65,7 @@ input[type=text] {
     font-size: 32px;
     width:800px;
     padding:10px;
+    border:1px solid purple;
 }
 
 button {
@@ -81,4 +82,5 @@ label {
 select {
     text-align: center;
     font-size: 32px;
+    border: 1px solid purple;
 }
