@@ -40,6 +40,7 @@ ul {
     color: white;
     text-align: left;
     font-size: 32px;
+    text-align: center;
 }
 
 center {
@@ -50,16 +51,16 @@ center {
 }
 
 table {
-    border-collapse:collapse;
-    width:700px;
-    margin-left:400px;
+    border-collapse: collapse;
+    width: 700px;
+    margin-left: 600px;
 }
 table, th, td {
     border: 1px solid orange;
     color: white;
     font-size: 32px;
     text-align: center;
-    margin-left: 400px;
+    margin-left: 600px;
 }
 
 tr:hover {
@@ -73,17 +74,20 @@ input {
     padding: 10px;
     border: 1px solid purple;
     border-radius: 4px;
+    margin-left: 600px;
 }
 
 button {
     text-align: center;
     font-size: 32px;
+    margin-left: 600px;
 }
 
 label {
     color: white;
     text-align: center;
     font-size: 32px;
+    margin-left: 600px;
 }
 
 select {
@@ -91,4 +95,5 @@ select {
     font-size: 32px;
     border: 1px solid purple;
     border-radius: 4px;
+    margin-left: 600px;
 }
