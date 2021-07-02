@@ -64,6 +64,7 @@ input[type=text] {
     text-align: center;
     font-size: 32px;
     width:800px;
+    padding:10px;
 }
 
 button {
