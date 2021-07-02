@@ -60,7 +60,7 @@ table, th, td {
     color: white;
     font-size: 32px;
     text-align: center;
-    margin-left: 600px;
+    margin-left: 580px;
 }
 
 tr:hover {
@@ -74,20 +74,20 @@ input {
     padding: 10px;
     border: 1px solid purple;
     border-radius: 4px;
-    margin-left: 600px;
+    margin-left: 550px
 }
 
 button {
     text-align: center;
     font-size: 32px;
-    margin-left: 600px;
+    margin-left: 550px
 }
 
 label {
     color: white;
     text-align: center;
     font-size: 32px;
-    margin-left: 600px;
+    margin-left: 550px
 }
 
 select {
@@ -95,5 +95,5 @@ select {
     font-size: 32px;
     border: 1px solid purple;
     border-radius: 4px;
-    margin-left: 600px;
+    margin-left: 550px
 }
