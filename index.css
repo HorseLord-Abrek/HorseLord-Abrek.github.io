@@ -45,7 +45,8 @@ center {
     width: 50%;
 }
 
-table {
+table, th, td {
+    border: 1px solid orange;
     color: white;
     font-size: 32px;
 }
