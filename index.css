@@ -64,7 +64,7 @@ tr:hover {
     background-color:blueviolet;
 }
 
-input[type=text] {
+input[type=text] [type=password]{
     text-align: center;
     font-size: 32px;
     width: 800px;
