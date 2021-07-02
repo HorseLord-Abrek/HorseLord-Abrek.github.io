@@ -45,6 +45,9 @@ center {
     width: 50%;
 }
 
+table {
+    border-collapse:collapse;
+}
 table, th, td {
     border: 1px solid orange;
     color: white;
