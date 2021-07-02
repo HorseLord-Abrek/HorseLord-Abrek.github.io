@@ -60,9 +60,10 @@ tr:hover {
     background-color:blueviolet;
 }
 
-input {
+input[type=text] {
     text-align: center;
     font-size: 32px;
+    width:800px;
 }
 
 button {
