@@ -52,13 +52,14 @@ center {
 table {
     border-collapse:collapse;
     width:700px;
-    padding:50px;
+    margin-left:400px;
 }
 table, th, td {
     border: 1px solid orange;
     color: white;
     font-size: 32px;
     text-align: center;
+    margin-left: 400px;
 }
 
 tr:hover {
