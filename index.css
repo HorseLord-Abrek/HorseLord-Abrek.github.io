@@ -2,6 +2,7 @@ header {
     color: white;
     text-align: center;
     border: 3px blue;
+    border-radius:4px;
     font-size: 64px;
 }
 
@@ -9,6 +10,7 @@ h1 {
     color: white;
     text-align: center;
     border: 5px solid green;
+    border-radius: 4px;
     font-size: 54px;
 }
 
@@ -16,6 +18,7 @@ h2 {
     color: white;
     text-align: center;
     border: 3px solid green;
+    border-radius: 4px;
     font-size: 48px;
 }
 
@@ -29,6 +32,7 @@ p {
     color: white;
     text-align: center;
     border: 2px solid purple;
+    border-radius: 4px;
     font-size: 32px;
 }
 
@@ -63,9 +67,10 @@ tr:hover {
 input[type=text] {
     text-align: center;
     font-size: 32px;
-    width:800px;
-    padding:10px;
-    border:1px solid purple;
+    width: 800px;
+    padding: 10px;
+    border: 1px solid purple;
+    border-radius: 4px;
 }
 
 button {
@@ -83,4 +88,5 @@ select {
     text-align: center;
     font-size: 32px;
     border: 1px solid purple;
+    border-radius: 4px;
 }
